@@ -1,0 +1,210 @@
+ body{
+  overflow-x: hidden;
+    padding: 0;
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+}
+.parent{
+    background-color: brown; 
+    width: 100%;  
+    background-image: url(../images/1.jpg); 
+    background-size:100% ;
+    
+
+}
+.logo{
+    width: 200px;
+    margin: 20px 0 0 50px;
+    display: inline;
+}
+.home{
+    display: inline;
+    margin-left: 32%;
+    color: aliceblue;
+    text-align: right;
+    margin-top: 10px;
+}
+a{
+    padding: 10px;
+    font-size: 20px; 
+    margin-bottom: 20px;
+    color: aliceblue;
+    
+}
+.welcome{
+    text-align: center;
+    margin: 150px auto 150px;
+    color: #f1ecec;
+    
+}
+.pwelcome{
+    font-size: 22px;
+    width: 50%;
+    margin: 10px auto ;
+
+}
+.family{
+    font-size: 60px;
+    margin: 30px auto ;
+}
+.b1{
+    padding: 20px;
+     border: 1px solid rgb(236, 223, 107); 
+    background-color: rgb(214, 208, 123);
+    color: aliceblue;
+    font-weight: 800;
+}
+.b2{
+    padding: 20px;
+    border: 1px solid rgb(241, 238, 238);
+    background-color: transparent;
+    color: aliceblue;
+    font-weight: 800;
+    margin-bottom: 275px; 
+    margin-top: 70px;
+    
+
+}
+.section2 {
+    width: 100%; 
+    padding-left: 30px;
+
+}
+.part1{
+    width:45%;
+    margin: 5px 10px ;
+    padding: 20px 20px;
+    float: left;
+
+}
+.part2{
+    width: 40%;
+    float: left;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+.part22{
+    float: left;
+    margin: 20px 30px ;
+}
+.clear-fix{
+    clear: both;
+}
+
+.part4{
+    width:50%;
+    margin: auto 10px 35px 70px;
+    padding: 20px 20px;
+    float: left;
+
+}
+.sectionn3{
+    width: 100%;
+    background-color: rgb(42, 42, 124);
+    margin-top: 10px;
+}
+.part3{
+    width: 35%;
+    margin-top: 130px;
+    margin-left: 70px;
+    float: left;
+    text-align: center;
+
+    
+}
+
+.section4{
+    text-align: center;
+    width: 100%;
+    margin: 50px auto;
+   
+ }
+ .table{
+    width: 100%;
+    padding-left: 30px;
+
+ }
+ .cat1{
+    width: 30%;
+    float:left;
+    padding: auto 50px;
+    margin: auto 15px;
+   
+ }
+ .cat2{
+    width: 100%;
+    margin: 80px 0;
+    
+ }
+ 
+
+.img1{
+    width:100%;
+    display:inline-block;
+    text-align:center;
+    padding-left: auto;
+}
+.text1{
+    text-align: center;
+}
+.nav{
+    width: 100%;
+    margin: 5px 0;
+    float:left;
+    background-color: rgb(56, 54, 54);
+}
+.sec1{
+    /* background-color: aqua; */
+    width:21%;
+    float:left;
+    margin: 50px 15px;
+    color:rgb(127, 129, 131);
+}
+.about{
+    color: aliceblue;
+}
+.icon{
+    display: inline;
+}
+.last-section{
+    background-color: grey;
+}
+.lastlogo{
+    width:25%;
+    margin:50px 37% 20px;
+}
+.rights{
+    color: white;
+    text-align: center;
+}
+.icon4{
+    width:30px;
+    float:left;
+    margin-right: 20px;
+}
+.data{
+    /* float: left; */
+    margin-left: 10px;
+
+}
+.book{
+    margin:20px auto;
+}
+.grouppeople{
+    margin-top: 10px;
+    width: 100%
+}
+.mapin{
+    width:70%;
+}
+.map{
+    float: left;
+    margin-left: 60px;
+
+}
+.righttable{
+    width:40%;
+    float: left;
+}
